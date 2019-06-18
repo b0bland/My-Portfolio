@@ -30,3 +30,16 @@ body {
     width: 775px;
     margin: 50px auto;
 }
+
+.card-deck {
+    margin-top: 25px;
+}
+
+h5.card-title {
+    font-size: 40px;
+    margin: 10px auto;
+}
+
+p.card-text {
+    font-size: 18px;
+}
