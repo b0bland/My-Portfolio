@@ -1,12 +1,8 @@
-# Bootstrap-Portfolio
+# My Portfolio
 
-![Main page of website](assets/images/site1.png "Screenshot of main page")
+![My portfolio page](https://i.imgur.com/5sd76hK.png "Picture of the front page of my portfolio")
 
-![Portfolio page of website](assets/images/site2.png "Screenshot of portfolio page")
-
-![Contacts page of website](assets/images/site3.png "Screenshot of contact page")
-
-This is a design of a portfolio using Bootstrap elements to design the page. The basic layout of the portfolio is based on [a prior assignment](https://github.com/b0bland/Basic-Portfolio), with the layout converted into a design using Bootstrap. 
+This is my portfolio, where I tell people who I am, what I do, and what I have done. Currently, there is a short description, as well as ways to contact me. A few of my projects are listed in there. 
 
 ## Technologies Used
 
